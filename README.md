@@ -22,7 +22,7 @@ http://code.google.com/p/njuthesis/
 
 ###tex.sublime-build 文件作用：
 
-将文件拷贝至 ~/Library/Application Support/Sublime Text 2/ 目录下，即可在 Sublime Text 的 "Tools"" => ""Build Systems" 菜单下看到tex。
+将文件拷贝至 ~/Library/Application Support/Sublime Text 2/ 目录下，即可在 Sublime Text 的 "Tools" => "Build Systems" 菜单下看到 tex。
 
 因此操作就变成：
 
