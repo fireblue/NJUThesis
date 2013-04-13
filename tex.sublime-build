@@ -1,0 +1,5 @@
+{
+	"cmd": ["./make.sh", "", ""],
+	"working_dir": "/Users/SZX/Desktop/thesis",
+	"path": "$PATH:/usr/texbin:/usr/local/bin"
+}
